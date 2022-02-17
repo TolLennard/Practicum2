@@ -1,4 +1,6 @@
 import static org.junit.jupiter.api.Assertions.*;
+
+import Practicum2a.Zwembad;
 import org.junit.jupiter.api.Test;
 class ZwembadTest {
     @Test
